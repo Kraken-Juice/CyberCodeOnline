@@ -64,7 +64,7 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "请从各副本中获取其中的密钥碎片, 通过终端机进行暴力破解, 以获得开放下个区域的完整密钥",
+ 	 	 	 	"trans": "请从各副本中获取其中的密钥碎片，通过[终端机]进行暴力破解，以获得开放下个区域的完整密钥。",
  	 	 	 	"eng": "To progress to next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use Terminal to Brute Force the key for next area"
  	 	 	}
  	 	},
@@ -118,13 +118,13 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "scavenge skill",
+ 	 	 	 	"trans": "拾荒技巧",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "mining skill",
+ 	 	 	 	"trans": "虚拟货币挖掘技巧",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -136,12 +136,12 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[市中心]\r\n        这个大陆上最繁华的城市之一, 在这里你可以看到来自世界各地形形色色的人",
+ 	 	 	 	"trans": "[市中心]\r\n        这个大陆上最繁华的城市之一，在这里你可以看到来自世界各地形形色色的人。",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "前往高速电磁列车总站",
+ 	 	 	 	 	"trans": "前往电磁环路列车总站",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -180,7 +180,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[工作中心]\r\n        这里有许多商店与各种生意, 一个完美的用来展现你各项技能的地方",
+ 	 	 	 	"trans": "[工作中心]\r\n        这里有许多商店与各种生意, 一个完美的用来展现你各项技能的地方。",
  	 	 	 	"eng": "[Job Hub]\r\n        Many shops and Businesses, a perfect location to try out your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -212,7 +212,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[探索]\r\n        通过乘坐高速电磁环路列车, 你可以轻易的以超乎想象的速度横跨整块大陆。",
+ 	 	 	 	"trans": "[探索]\r\n        通过乘坐高速电磁环路列车，你可以超乎想象的速度轻易横跨整块大陆。",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop you can travel at super speed across the continent with ease."
  	 	 	}
  	 	},
@@ -244,7 +244,7 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "返回电磁环路列车总站",
+ 	 	 	 	 	"trans": "返回电磁列车站",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
@@ -256,12 +256,12 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "从上个区域的三个副本中获取三个密钥碎片, \r\n然后通过使用[市中心]的[终端机]暴力破解，获得完整的密钥以解锁此区域",
+ 	 	 	 	 	"trans": "从上个区域的三个副本中获取三个密钥碎片，\r\n                然后通过使用[市中心]的[终端机]暴力破解，获得完整的密钥以解锁此区域。",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "让我们从1级到10级区域开始",
+ 	 	 	 	"trans": "让我们从1级到10级区域开始吧",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -325,7 +325,7 @@
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "通过在服务器中对虚拟货币的挖去来获得比特币, 但是超高频的计算使得散列处理器, 也就是QPU, 会在每一次使用后烧毁。",
+ 	 	 	 	"trans": "通过在服务器中对虚拟货币的挖取来获得比特币, 但是超高频的计算使得散列处理器, 也就是QPU, 会在每一次使用后烧毁。",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -428,7 +428,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "用于暴力破解完整密钥的碎片。\r\n                                使用位于市中心的终端机来暴力破解${segmentDisplayName}的密钥。\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area",
+ 	 	 	 	"trans": "用于暴力破解完整密钥的碎片。\r\n                                使用位于[市中心]的[终端机]来暴力破解${segmentDisplayName}的密钥。\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area",
  	 	 	 	"eng": "Secret key Fragment Use to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -445,7 +445,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "一个含有 ${typeName} 信息的分子合成缓存, \r\n                    你可以去市中心使用三维分子合成机来通过它打印一个 ${typeName}。\r\n                    \r\n                    来自前者的建议：合成装备的等级将取决于你分子合成等级技术的高低,\r\n                    所以最好先使用低等级的缓存体, 因为合成它们需要更少的比特币并且对提升你的分子合成等级有帮助。",
+ 	 	 	 	"trans": "一个含有 ${typeName} 信息的分子合成缓存, \r\n                    你可以去[市中心]使用三维分子合成机来通过它打印一个 ${typeName}。\r\n                    \r\n                    来自前者的建议：合成装备的等级将取决于你分子合成等级技术的高低,\r\n                    所以最好先使用低等级的缓存体, 因为合成它们需要更少的比特币并且对提升你的分子合成等级有帮助。",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -531,7 +531,7 @@
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "进阶阶纳米医疗机器人",
+ 	 	 	 	"trans": "进阶纳米医疗机器人",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
@@ -545,167 +545,135 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "军队内部特供的注射性纳米机器, 可以在战斗中对身体进行精细的治疗。",
+ 	 	 	 	"trans": "军队内部特供的注射性纳米机器人, 可以在战斗中对身体进行精细的治疗。",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano Medic Bot",
+ 	 	 	 	"trans": "稀有纳米医疗机器人",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "injectable nano machines that is for advance military use, capable of patching injury in combat situation",
+ 	 	 	 	"trans": "高阶注射性纳米机器，可以在战斗中对身体进行全面的修复。",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Pain Away Spray",
+ 	 	 	 	"trans": "痛立消喷雾",
  	 	 	 	"eng": "Pain Away Spray"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!",
- 	 	 	 	"eng": "Do you and your friend have headache together? use Pain Away Spray™ to relief your pain!"
- 	 	 	}
+			}
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Repair drone",
+ 	 	 	 	"trans": "降级的维护无人机",
  	 	 	 	"eng": "Degraded Repair drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "Old repair drone, capable of repair or heal nearby players",
- 	 	 	 	"eng": "Old repair drone, capable of repair or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded nano medic drone",
+ 	 	 	 	"trans": "降级的纳米医疗无人机",
  	 	 	 	"eng": "Degraded nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players",
- 	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano medic drone",
+ 	 	 	 	"trans": "纳米医疗无人机",
  	 	 	 	"eng": "Nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of nano machines to heal nearby players",
- 	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military Nano medic drone",
+ 	 	 	 	"trans": "军用纳米医疗无人机",
  	 	 	 	"eng": "Military Nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of military nano machines to heal nearby players",
- 	 	 	 	"eng": "capable of dispatching thousands of military nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advance Nano medic drone",
+ 	 	 	 	"trans": "进阶纳米医疗无人机",
  	 	 	 	"eng": "Advance Nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
- 	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "High Quality Nano medic drone",
+ 	 	 	 	"trans": "高级纳米医疗无人机",
  	 	 	 	"eng": "High Quality Nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
- 	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Nano medic drone",
+ 	 	 	 	"trans": "稀有纳米医疗无人机",
  	 	 	 	"eng": "Rare Nano medic drone"
- 	 	 	},
- 	 	 	"description": {
- 	 	 	 	"trans": "capable of dispatching thousands of advanced nano machines to heal nearby players",
- 	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Medical Tech Parts",
+ 	 	 	 	"trans": "医疗学元件",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how",
+ 	 	 	 	"trans": "用过的医疗仪器的碎片和元件，如果知道方法的话，你可以用它们来制造医疗物品。",
  	 	 	 	"eng": "Bits and pieces of used medical tech, this can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Experience Memory",
+ 	 	 	 	"trans": "经验内存单元",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Memory bank contains someone's memory, if used you may gain experience from this",
+ 	 	 	 	"trans": "内含某个单位记忆的存储体，融合后你也许会获得其中的经验。",
  	 	 	 	"eng": "Memory bank contains someone's memory, if used you may gain experience from this"
  	 	 	}
  	 	},
  	 	"hashProcessor": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hash Processor",
+ 	 	 	 	"trans": "散列处理器",
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]",
+ 	 	 	 	"trans": "一个有效的比特币挖取硬件, \r\n        可惜超频的使用会让其轻易地烧毁,\r\n        你可以在[工作中心]消耗它来获取比特币。",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
  	 	"afkAcceleration": {
  	 	 	"name": {
- 	 	 	 	"trans": "Synaptic Acceleration Transmitter",
+ 	 	 	 	"trans": "神经突触加速指令发射器",
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)",
+ 	 	 	 	"trans": "向所有接入神经集成服务器的用户传输神经元开发指令，让他们的突触处理器进行超频运作，从而在短时间内使他们获得更高的思维能力。\r\n        \r\n        此模组激发后将会对所有线上玩家给予加持，在十分钟内使他们的工作效率增加百分之五（可叠加）。",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
  	 	"afkAcceleration2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rare Synaptic Acceleration Transmitter",
+ 	 	 	 	"trans": "高级神经突触加速指令发射器",
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)",
+ 	 	 	 	"trans": "向所有接入神经集成服务器的用户传输高级神经元开发指令，让他们的突触处理器进行超频运作，从而在短时间内提供远超常人的思维能力。\r\n        \r\n        此模组激发后将会对所有线上玩家给予加持，在二十分钟内使他们的工作效率增加百分之四十（可叠加）。",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclock their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
  	 	"expMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Frontal Cortex Optimization Transmitter",
+ 	 	 	 	"trans": "额叶皮层优化指令发射器",
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Broadcasts exploits to all cybernetically connected users, enhance their Frontal Cortex integration with cyberwares installed, thus increase memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        ",
+ 	 	 	 	"trans": "向所有接入神经集成服务器的用户传输脑部开发指令，激发用户额叶皮层的潜能，与植入物一体化，以此来增强个体的记忆储存能力。\r\n\r\n        此模组激发后将会对所有线上玩家给予加持，在二十分钟内使他们的经验获取量增加至百分之一百八十。\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhance their Frontal Cortex integration with cyberwares installed, thus increase memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
  	 	"btcMultiplier": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transaction Exploit Transmitter",
+ 	 	 	 	"trans": "交易算法扩展指令发射器",
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        ",
+ 	 	 	 	"trans": "向所有接入神经集成服务器的用户传输交易算法开发指令，短时间内扩展并改进用户们的交易算法，让用户获得更多的${Config.CURRENCY_NAME}.\r\n\r\n        此模组激发后将会对所有线上玩家给予加持， 在二十分钟内使他们的比特币获取量增加百分之四十（可叠加）。\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	}
@@ -739,14 +707,14 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "理想人物等级: ${maxLevel}+ 并且与其他玩家合作\r\n                    获取 ${expMultiplier} 倍的经验!\r\n                    挑战副本, 更多的物资与经验。\r\n                    可以找到 ${keyFragmentDisplayName}\r\n                    如果你的等级太低的话, 不建议尝试。",
+ 	 	 	 	"trans": "理想人物等级: ${maxLevel}+并且与其他玩家合作\r\n                    获取${expMultiplier}倍的经验!\r\n                    挑战副本, 更多的物资与经验。\r\n                    可以找到${keyFragmentDisplayName}\r\n                    如果你的等级太低的话, 不建议尝试。",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Challenge mode dungeon, extra loot and exp.\r\n                    Drops ${keyFragmentDisplayName}\r\n                    Not advised to enter if your level is too low"
  	 	 	},
  	 	 	"startName": {
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "攻击 ${zoneName}",
+ 	 	 	 	"trans": "攻击${zoneName}",
  	 	 	 	"eng": "attack ${zoneName}"
  	 	 	},
  	 	 	"tut": {
@@ -773,7 +741,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Progression-${progressionId}",
+ 	 	 	"trans": "在${segmentDisplayName}的各副本中获取共三个密钥碎片，\r\n                通过它们来获取进入下个区域的通行密钥\r\n                请去位于[市中心]的[终端机]来破解并获得密钥。",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]"
  	 	}
  	},
@@ -783,12 +751,6 @@
  	 	 	 	"trans": "在线玩家",
  	 	 	 	"eng": "players online"
  	 	 	}
- 	 	}
- 	},
- 	"misc": {
- 	 	"missing": {
- 	 	 	"trans": "missing",
- 	 	 	"eng": "missing"
  	 	}
  	}
 }
